@@ -1,0 +1,14 @@
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\bin\Debug\net6.0\H4E10.exe
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\bin\Debug\net6.0\H4E10.deps.json
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\bin\Debug\net6.0\H4E10.runtimeconfig.json
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\bin\Debug\net6.0\H4E10.dll
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\bin\Debug\net6.0\H4E10.pdb
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\H4E10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\H4E10.AssemblyInfoInputs.cache
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\H4E10.AssemblyInfo.cs
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\H4E10.csproj.CoreCompileInputs.cache
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\H4E10.dll
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\refint\H4E10.dll
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\H4E10.pdb
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\H4E10.genruntimeconfig.cache
+C:\Users\jalog\OneDrive\Escritorio\FP1\Hoja 4\H4E10\obj\Debug\net6.0\ref\H4E10.dll
