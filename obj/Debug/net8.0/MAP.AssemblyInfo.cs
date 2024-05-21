@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02c736fdee95e193c17f0af2a884a2f3b3414c42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b232472fa2efe89c9f521057b15cddd06b84ebc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

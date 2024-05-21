@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jalog\\Documents\\MAP\\MAP.csproj": {}
+    "C:\\Users\\jalog\\MAP\\MAP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jalog\\Documents\\MAP\\MAP.csproj": {
+    "C:\\Users\\jalog\\MAP\\MAP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jalog\\Documents\\MAP\\MAP.csproj",
+        "projectUniqueName": "C:\\Users\\jalog\\MAP\\MAP.csproj",
         "projectName": "MAP",
-        "projectPath": "C:\\Users\\jalog\\Documents\\MAP\\MAP.csproj",
+        "projectPath": "C:\\Users\\jalog\\MAP\\MAP.csproj",
         "packagesPath": "C:\\Users\\jalog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jalog\\Documents\\MAP\\obj\\",
+        "outputPath": "C:\\Users\\jalog\\MAP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jalog\\AppData\\Roaming\\NuGet\\NuGet.Config",
